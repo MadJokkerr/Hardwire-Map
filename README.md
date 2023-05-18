@@ -3,7 +3,7 @@
 
 <p align="center">
   <a>
-    <img src="https://github.com/MadJokkerr/Hardwire-Map/blob/main/src/Wireframe-Building-Vector.heic" width="30%">
+    <img src="https://github.com/MadJokkerr/Hardwire-Map/blob/main/src/Wireframe-Building-Vector.png" width="30%">
   </a>
 </p>
 
